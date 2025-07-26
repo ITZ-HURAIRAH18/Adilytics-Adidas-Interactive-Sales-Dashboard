@@ -1,6 +1,5 @@
 
 
-## ✅ **Project Name:**
 
 **Adilytics — Adidas Interactive Sales Dashboard**
 
